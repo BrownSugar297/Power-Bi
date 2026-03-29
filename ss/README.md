@@ -192,13 +192,35 @@ A mobile-style fitness tracker app designed in Power BI, showcasing personal hea
 
 ## 📸 Screenshots
 
-> _Add screenshots of each dashboard here for a better preview experience._
-> 
-> Example:
-> ```
-> ![Car Dashboard](screenshots/car-dashboard.png)
-> ![HR Analytics](screenshots/hr-analytics.png)
-> ```
+### 🚗 Car Dashboard
+| | |
+|---|---|
+| ![Car Dashboard 1](screenshots/car-dashboard-1.png) | ![Car Dashboard 2](screenshots/car-dashboard-2.png) |
+
+### 💰 Crypto Currency
+| | |
+|---|---|
+| ![Crypto Currency 1](screenshots/crypto-currency-1.png) | ![Crypto Currency 2](screenshots/crypto-currency-2.png) |
+
+### 👥 HR Analytics
+| | |
+|---|---|
+| ![HR Analytics 1](screenshots/hr-analytics-1.png) | ![HR Analytics 2](screenshots/hr-analytics-2.png) |
+
+### 📈 Sales Analysis
+| | |
+|---|---|
+| ![Sales Analysis 1](screenshots/sales-analysis-1.png) | ![Sales Analysis 2](screenshots/sales-analysis-2.png) |
+
+### ⌚ Watch Dashboard
+| | |
+|---|---|
+| ![Watch Dashboard 1](screenshots/watch-dashboard-1.png) | ![Watch Dashboard 2](screenshots/watch-dashboard-2.png) |
+
+### 🏃 Fitness Tracker
+| | |
+|---|---|
+| ![Fitness Tracker 1](screenshots/fitness-tracker-1.png) | ![Fitness Tracker 2](screenshots/fitness-tracker-2.png) |
 
 ---
 
