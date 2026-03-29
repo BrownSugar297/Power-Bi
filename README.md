@@ -313,8 +313,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 🙋 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- GitHub: https://github.com/BrownSugar297
+- LinkedIn: https://www.linkedin.com/in/ashikur-rahman-ashik-9798102b7/
 
 ---
 
