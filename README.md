@@ -166,32 +166,32 @@ A mobile app-style fitness tracker designed entirely in Power BI, featuring pers
 ### 🚗 Car Dashboard
 | | |
 |---|---|
-| ![Car Dashboard 1](screenshots/car-dashboard-1.png) | ![Car Dashboard 2](screenshots/car-dashboard-2.png) |
+| ![Car Dashboard 1](car-dashboard-1.png) | ![Car Dashboard 2](car-dashboard-2.png) |
 
 ### 💰 Crypto Currency
 | | |
 |---|---|
-| ![Crypto Currency 1](screenshots/crypto-currency-1.png) | ![Crypto Currency 2](screenshots/crypto-currency-2.png) |
+| ![Crypto Currency 1](crypto-currency-1.png) | ![Crypto Currency 2](crypto-currency-2.png) |
 
 ### 👥 HR Analytics
 | | |
 |---|---|
-| ![HR Analytics 1](screenshots/hr-analytics-1.png) | ![HR Analytics 2](screenshots/hr-analytics-2.png) |
+| ![HR Analytics 1](hr-analytics-1.png) | ![HR Analytics 2](hr-analytics-2.png) |
 
 ### 📈 Sales Analysis
 | | |
 |---|---|
-| ![Sales Analysis 1](screenshots/sales-analysis-1.png) | ![Sales Analysis 2](screenshots/sales-analysis-2.png) |
+| ![Sales Analysis 1](sales-analysis-1.png) | ![Sales Analysis 2](sales-analysis-2.png) |
 
 ### ⌚ Watch Dashboard
 | | |
 |---|---|
-| ![Watch Dashboard 1](screenshots/watch-dashboard-1.png) | ![Watch Dashboard 2](screenshots/watch-dashboard-2.png) |
+| ![Watch Dashboard 1](watch-dashboard-1.png) | ![Watch Dashboard 2](watch-dashboard-2.png) |
 
 ### 🏃 Fitness Tracker
 | | |
 |---|---|
-| ![Fitness Tracker 1](screenshots/fitness-tracker-1.png) | ![Fitness Tracker 2](screenshots/fitness-tracker-2.png) |
+| ![Fitness Tracker 1](fitness-tracker-1.png) | ![Fitness Tracker 2](fitness-tracker-2.png) |
 
 ---
 
@@ -253,19 +253,18 @@ Power-Bi-main/
 ├── 📊 Watch Dashboard.pbix             # Luxury watch retail YoY growth (1 page)
 ├── 📊 fitness_tracker_app_design.pbix  # Fitness metrics app UI (1 page)
 │
-├── screenshots/
-│   ├── car-dashboard-1.png
-│   ├── car-dashboard-2.png
-│   ├── crypto-currency-1.png
-│   ├── crypto-currency-2.png
-│   ├── hr-analytics-1.png
-│   ├── hr-analytics-2.png
-│   ├── sales-analysis-1.png
-│   ├── sales-analysis-2.png
-│   ├── watch-dashboard-1.png
-│   ├── watch-dashboard-2.png
-│   ├── fitness-tracker-1.png
-│   └── fitness-tracker-2.png
+├── 🖼️ car-dashboard-1.png
+├── 🖼️ car-dashboard-2.png
+├── 🖼️ crypto-currency-1.png
+├── 🖼️ crypto-currency-2.png
+├── 🖼️ hr-analytics-1.png
+├── 🖼️ hr-analytics-2.png
+├── 🖼️ sales-analysis-1.png
+├── 🖼️ sales-analysis-2.png
+├── 🖼️ watch-dashboard-1.png
+├── 🖼️ watch-dashboard-2.png
+├── 🖼️ fitness-tracker-1.png
+├── 🖼️ fitness-tracker-2.png
 │
 └── README.md
 ```
